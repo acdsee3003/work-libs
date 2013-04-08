@@ -12,7 +12,7 @@ import com.commonsware.cwac.task.AsyncTaskEx;
 import com.vstar.lib.VstarApplication;
 import com.vstar.lib.bean.BaseIndex.Welcome;
 import com.vstar.lib.io.ImageFetcher;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * 

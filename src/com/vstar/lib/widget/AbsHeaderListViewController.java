@@ -21,7 +21,7 @@ import com.lurencun.android.adapter.ViewBuilder;
 import com.viewpagerindicator.CirclePageIndicator;
 import com.vstar.lib.utils.L;
 import com.vstar.lib.utils.ViewUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * 

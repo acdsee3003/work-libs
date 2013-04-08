@@ -21,7 +21,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * A generic, customizable Android ListView implementation that has 'Pull to Refresh' functionality.

@@ -8,7 +8,7 @@ import com.commonsware.cwac.task.AsyncTaskEx;
 import com.vstar.lib.db.FavoriteDBHelper;
 import com.vstar.lib.db.dto.Favorite;
 import com.vstar.lib.utils.ToastUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * 

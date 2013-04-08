@@ -27,7 +27,7 @@ import com.vstar.lib.adapter.viewbuilder.WeiboItemViewBuilder;
 import com.vstar.lib.bean.WeiboItem;
 import com.vstar.lib.utils.L;
 import com.vstar.lib.utils.ToastUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 public class WeiboCollectionDialogFragment extends DialogFragment implements OnClickListener,
                                                                  WeiboActionListener, Callback {

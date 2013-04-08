@@ -35,7 +35,7 @@ import android.widget.Adapter;
 import android.widget.ListAdapter;
 import android.widget.Scroller;
 
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * Base class that can be used to implement virtualized lists of items. A list does

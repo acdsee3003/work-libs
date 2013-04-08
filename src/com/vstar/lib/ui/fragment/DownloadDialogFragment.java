@@ -22,7 +22,7 @@ import com.vstar.lib.utils.FileUtil;
 import com.vstar.lib.utils.FileUtil.SaveFileCallBack;
 import com.vstar.lib.utils.L;
 import com.vstar.lib.utils.ToastUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * 

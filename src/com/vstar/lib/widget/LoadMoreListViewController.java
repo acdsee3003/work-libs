@@ -17,7 +17,7 @@ import com.vstar.lib.bean.More;
 import com.vstar.lib.network.ProgressBarLoadingHttpResponseHandler;
 import com.vstar.lib.utils.L;
 import com.vstar.lib.utils.ViewUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * 

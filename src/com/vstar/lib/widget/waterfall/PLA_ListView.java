@@ -30,7 +30,7 @@ import android.view.accessibility.AccessibilityEvent;
 import android.widget.ListAdapter;
 import android.widget.WrapperListAdapter;
 
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /*
  * Implementation Notes: Some terminology: index - index of the items that are currently visible

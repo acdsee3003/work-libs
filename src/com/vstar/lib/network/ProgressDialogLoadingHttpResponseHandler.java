@@ -14,7 +14,7 @@ import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.vstar.lib.VstarApplication;
 import com.vstar.lib.utils.GsonUtil;
 import com.vstar.lib.utils.ToastUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 public class ProgressDialogLoadingHttpResponseHandler<T> extends AsyncHttpResponseHandler implements
                                                                                          OnCancelListener {

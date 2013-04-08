@@ -15,7 +15,7 @@ import com.vstar.lib.ui.fragment.ConfirmDialogFragment;
 import com.vstar.lib.ui.fragment.DownloadDialogFragment;
 import com.vstar.lib.ui.fragment.DownloadDialogFragment.OnDownloadFinishListener;
 import com.vstar.lib.utils.PathUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * 

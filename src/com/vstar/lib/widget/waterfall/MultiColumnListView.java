@@ -22,7 +22,7 @@ import android.util.Log;
 import android.util.SparseIntArray;
 import android.view.View;
 
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * @author huewu.ynag

@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 import android.text.TextUtils;
 
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 /**
  * 

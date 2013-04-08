@@ -9,7 +9,7 @@ import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.vstar.lib.utils.GsonUtil;
 import com.vstar.lib.utils.ToastUtil;
 import com.vstar.lib.utils.ViewUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 public class ProgressBarLoadingHttpResponseHandler<T> extends AsyncHttpResponseHandler {
     private ProgressBar mProgressBar;

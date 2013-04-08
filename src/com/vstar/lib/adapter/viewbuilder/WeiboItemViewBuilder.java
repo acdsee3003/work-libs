@@ -8,7 +8,7 @@ import android.widget.TextView;
 import com.lurencun.android.adapter.ViewBuilder;
 import com.vstar.lib.bean.WeiboItem;
 import com.vstar.lib.utils.ViewUtil;
-import com.vstarlib.R;
+import com.vstar.lib.R;
 
 public class WeiboItemViewBuilder extends ViewBuilder<WeiboItem> {
 
